@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/sithis/.oh-my-zsh"
+  export ZSH=~/.oh-my-zsh
   export MAIL="mabouce@student.42.fr"
 
 # Set name of the theme to load --- if set to "random", it will
