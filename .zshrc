@@ -95,6 +95,7 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
+alias win="cd /mnt/c/Users/MaSit/OneDrive/Bureau"
 alias logg="git log --graph --date=relative --decorate --all"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval "$(dircolors ~/.dircolors)";
